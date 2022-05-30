@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 📈 my github stats
   
   <div>
-<a href="https://github-readme-stats.vercel.app/api?username=AlpacaSmall&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=AlpacaSmall&hide=contribs&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=AlpinaJ&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=AlpinaJ&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpacaSmall&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpacaSmall&layout=compact" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpinaJ&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpinaJ&layout=compact" />
 </a>
 </div>
