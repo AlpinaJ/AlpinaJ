@@ -21,5 +21,12 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlpacaSmall&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
+  <div>
+<a href="https://github-readme-stats.vercel.app/api?username=AlpacaSmall&hide=contribs&show_icons=true">
+  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=AlpacaSmall&hide=contribs&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpacaSmall&layout=compact">
+  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpacaSmall&layout=compact" />
+</a>
+</div>
