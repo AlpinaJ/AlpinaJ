@@ -29,5 +29,13 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 03 June 2022 - To: 10 June 2022
+
+CSS          45 mins         ██████████████████░░░░░░░   72.27 %
+JavaScript   17 mins         ███████░░░░░░░░░░░░░░░░░░   27.73 %
+```
+
 <!--END_SECTION:waka-->
 
