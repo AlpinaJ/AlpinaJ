@@ -20,12 +20,14 @@
 <br />
 
 ### Моя статистика 📈 
+![](https://visitor-badge.glitch.me/badge?page_id=AlpinaJ.AlpinaJ)
   
-  <div>
+<div>
 <a href="https://github-readme-stats.vercel.app/api?username=AlpinaJ&hide=contribs&show_icons=true">
   <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=AlpinaJ&hide=contribs&show_icons=true" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpinaJ&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlpinaJ&layout=compact" />
-</a>
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
