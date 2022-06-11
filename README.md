@@ -28,8 +28,6 @@
 </a>
 </div>
 
-<br />
-
 <!--START_SECTION:waka-->
 
 ```text
